@@ -279,7 +279,7 @@ Note:
 <!-- まとめ -->
 
 <!-- .slide: style="background-color:rgba(0,0,0,0.5); " -->
-<!-- .slide: data-background-image="https://bandai-hobby.net/images/153_1514_s_4xkrqp3o40opwz302rxh28eykb8a.jpg" data-background-size="80%" -->
+<!-- .slide: data-background-image="-- https://bandai-hobby.net/images/153_1514_s_4xkrqp3o40opwz302rxh28eykb8a.jpg" data-background-size="80%" -->
 
 ウラガン<br>
 あのイスをキシリア様に届けてくれよ
